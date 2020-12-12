@@ -1,0 +1,14 @@
+C:\Users\errol\Documents\Dusk\GitHub\rustymachine-regression\target\debug\deps\csv-e572e4cf8aeae0c7.rmeta: C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\lib.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\byte_record.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\cookbook.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\deserializer.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\error.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\reader.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\serializer.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\string_record.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\tutorial.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\writer.rs
+
+C:\Users\errol\Documents\Dusk\GitHub\rustymachine-regression\target\debug\deps\csv-e572e4cf8aeae0c7.d: C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\lib.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\byte_record.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\cookbook.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\deserializer.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\error.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\reader.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\serializer.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\string_record.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\tutorial.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\writer.rs
+
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\lib.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\byte_record.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\cookbook.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\deserializer.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\error.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\reader.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\serializer.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\string_record.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\tutorial.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.5\src\writer.rs:

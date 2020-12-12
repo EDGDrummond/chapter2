@@ -1,0 +1,1 @@
+{"rustc":15763170542787481775,"features":"[\"minwindef\", \"ntsecapi\", \"profileapi\", \"winnt\"]","target":10088282520713642473,"profile":6299028598154287785,"path":2261219135266207590,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\winapi-b65ef4c98e7d9b00\\dep-build-script-build-script-build"}}],"rustflags":[],"metadata":16266002775178098827,"config":0}

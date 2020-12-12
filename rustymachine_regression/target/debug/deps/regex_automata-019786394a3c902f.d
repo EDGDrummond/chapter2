@@ -1,0 +1,11 @@
+C:\Users\errol\Documents\Dusk\GitHub\rustymachine-regression\target\debug\deps\regex_automata-019786394a3c902f.rmeta: C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs
+
+C:\Users\errol\Documents\Dusk\GitHub\rustymachine-regression\target\debug\deps\regex_automata-019786394a3c902f.d: C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs
+
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\lib.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\classes.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dense.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\dfa.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\regex.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\sparse.rs:
+C:\Users\errol\.cargo\registry\src\github.com-1ecc6299db9ec823\regex-automata-0.1.9\src\state_id.rs:
